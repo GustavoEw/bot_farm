@@ -6,7 +6,7 @@ import keyboard
 import os
 import time
 
-PASTA_IMAGENS = "portao2"
+PASTA_IMAGENS = "ranked"
 CONFIANCA = 0.85
 
 sct = mss.MSS()
