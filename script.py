@@ -7,7 +7,7 @@ import os
 import time
 
 PASTA_IMAGENS = "ranked"
-CONFIANCA = 0.85
+CONFIANCA = 0.8
 
 sct = mss.MSS()
 monitor = sct.monitors[1]
